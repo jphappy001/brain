@@ -1,4 +1,5 @@
-# brain
+# What to learn and do in the course hands on sessions
+
 1. Analyse functional connectivity data by __Graph theory__
 
 2. __Visualize__ functional brain connectivity data, like this:
